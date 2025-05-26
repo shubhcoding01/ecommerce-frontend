@@ -8,7 +8,7 @@ import Navbar from './customer/components/Navbar/Navbar';
 
 function App() {
   return (
-    <div className="p-20">
+    <div className="">
       
       <Navbar />
 

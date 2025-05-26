@@ -26,7 +26,7 @@ const Navbar = () => {
                     {
                         true ? <Button>
                             Bazaar
-                        </Button> : <Button>Login</Button>
+                        </Button> : <Button variant='contained'>Login</Button>
                     }
                 </div>
             </div>

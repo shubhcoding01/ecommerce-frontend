@@ -10,8 +10,11 @@ const Navbar = () => {
                 <div>
                     <div>
                         <IconButton>
-                            
+                            <MenuIcon />
                         </IconButton>
+                        <h1>
+                            E-Commerce Store
+                        </h1>
                     </div>
                 </div>
             </div>

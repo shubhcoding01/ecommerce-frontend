@@ -12,7 +12,7 @@ const Navbar = () => {
                         <IconButton>
                             <MenuIcon />
                         </IconButton>
-                        <h1>
+                        <h1 className='logo cursor-pointer text-lg md:text-2xl lg:text-3xl font-bold text-gray-800 dark:text-[#3a8cde]'>
                             E-Commerce Store
                         </h1>
                     </div>

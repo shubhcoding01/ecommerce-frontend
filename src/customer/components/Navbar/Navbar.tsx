@@ -17,6 +17,11 @@ const Navbar = () => {
                         </h1>
                     </div>
                 </div>
+                <div>
+                    <IconButton>
+                        
+                    </IconButton>
+                </div>
             </div>
         </Box>
     </>

@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <>
         <Box>
-            <div>
+            <div className='flex justify-between items-center px-5 lg:px-20 h-[70px] border-b'>
                 <div>
                     <div className='flex items-center gap-2'>
                         <IconButton>

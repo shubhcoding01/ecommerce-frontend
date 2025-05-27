@@ -4,9 +4,10 @@ import DealCard from './DealCard'
 const Deal = () => {
   return (
     <div>
-        <DealCard />
+        <DealCard/>
     </div>
   )
+
 }
 
 export default Deal

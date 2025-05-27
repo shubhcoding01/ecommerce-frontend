@@ -5,6 +5,7 @@ import { Button, ThemeProvider } from '@mui/material';
 import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 import Navbar from './customer/components/Navbar/Navbar';
 import customeTheme from './theme/customeTheme';
+import Home from './customer/pages/Home/Home';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <ThemeProvider theme={customeTheme}>
         <div>
           <Navbar />
+          <Home />
         </div>
         
       </ThemeProvider>
